@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teslacoachingkawarabandh.netlify.app/sitemap.xml
